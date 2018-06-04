@@ -8,4 +8,4 @@ gunicorn==19.8.1
 dj-static==0.0.6
 Unipath==1.1
 Markdown==2.6.11
-bleach==2.1.4
+bleach==2.1.3
