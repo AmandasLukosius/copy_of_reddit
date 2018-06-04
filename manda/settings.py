@@ -37,7 +37,7 @@ DATABASES = {
 
 DISABLE_COLLECTSTATIC=1
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
